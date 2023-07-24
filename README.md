@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Tanmayss1
-- 👀 I’m interested in Data Science, the data analytics field, etc.
-- 🌱 I’m currently learning Data Scientist.
+- 👋 Hi, I’m Tanmay Parmar From Gwalior(M.P)
+- 👀: I'm interested in Data Science, the data analytics field, etc.
+- 🌱 I’m currently learning to be a data scientist.
 - 💞️ I’m looking to collaborate on SQL, Python, Tableau, or any related work with analysis.
 - 📫 How to reach me ... Click on my bio, reach me on LinkedIn anytime you want.
 
