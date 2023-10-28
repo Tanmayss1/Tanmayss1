@@ -7,7 +7,6 @@
 - 💞️ I’m looking to collaborate on SQL, Python, Tableau, ML techniques, or any related work involving data analysis.
 - 📫 Feel free to reach out to me on LinkedIn anytime you want. Just click on my bio.
 - 🎮 In my free time, I enjoy learning new things, solving Rubik's Cubes (can solve in less than 2 minutes), and playing FIFA.
-- 📫 How to reach me ... Click on my bio, and reach me on LinkedIn anytime you want.
 
 
 
