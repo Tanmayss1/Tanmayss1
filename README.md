@@ -9,7 +9,7 @@
 - 🎮 In my free time, I enjoy learning new things, solving Rubik's Cubes (can solve in less than 2 minutes), and playing FIFA.
 
 
-
+For Dashboards Visit: https://www.novypro.com/profile_projects/tanmayparmar
 
 Open for any type of suggestions
 
@@ -18,7 +18,7 @@ Hobbies: Learning New Things :) , Rubick's Cube Solve ( Can Solve in less than 2
 
 #Adaptable to change :)
 
-#Change is the only constant
+#I believe in Change, because 'Change' is the only constant.
 
 Thanks in advance
 
