@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Tanmay Parmar from Gwalior (M.P.), India.
 - ✍️ I did an MBA (2020-2022) in supply chain management from ITM University, Gwalior.
-- 🏢 I am currently working as an operational analyst at Intuit Building Operations Pvt Ltd.
-- 📊 I am proficient in creating clear and concise reports and dashboards, using BI tools like Tableau, Power BI, and Excel.
+- 📊 I am proficient in creating clear and concise reports and dashboards, using BI tools like Power BI, and Excel.
 - 👀 I'm passionate about Data Science, Analytic Fields, Machine Learning, and working on projects related to futuristic technologies.
 - 🌱 I’m continually learning different libraries, models, and techniques used in data analysis and machine learning.
 - 💞️ I’m looking to collaborate on SQL, Python, Tableau, ML techniques, or any related work involving data analysis.
